@@ -1,0 +1,50 @@
+.welcome{
+    background-image: url(media/background.jpg);
+    margin: 0px;
+    border-radius:  20px;
+}
+.welcome h1{
+    font-weight: bold;
+    color: white;
+    padding-top: 290px;
+    padding-left: 100px;
+    font-size:xxx-large;
+    
+
+
+}
+.welcome p{
+    color: white;
+    font-size: 20px;
+    padding-left: 200px;
+    padding-bottom: 50px;
+
+}
+
+.add{
+    margin-left: 150px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-bottom: 100px;
+}
+
+.Postjob{
+    padding: 20px;
+    border-radius: 20px;
+    color: white;
+    background: #008236;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+.postrequest{
+    padding: 20px;
+    border-radius: 20px;
+    color: rgb(4, 0, 0);
+    background: #e9ecea;
+    border:solid black 2px;
+    margin-top: 30px;
+    
+}
+
+
